@@ -6,7 +6,7 @@ This is a simple HTML5 Canvas application in which a ball moves by alternating i
 
 - **Canvas Size**: 405 x 405
 - **Pattern**: Alternating red and blue colors
-- **Control**: A slider to adjust the band width (range: 1-20, step: 1)
+- **Control**: A slider to adjust the speed (range: 1-20, step: 1)
 
 ## How to Use
 
